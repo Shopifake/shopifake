@@ -1,0 +1,6 @@
+[submodule "shopifake-front"]
+	path = shopifake-front
+	url = https://github.com/Shopifake/shopifake-front
+[submodule "shopifake-back"]
+	path = shopifake-back
+	url = https://github.com/Shopifake/shopifake-back
