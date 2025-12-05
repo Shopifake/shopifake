@@ -146,10 +146,6 @@ This is a monorepo aggregating multiple Git submodules. Each service is develope
 git submodule update --remote --merge
 ```
 
-## 📝 License
-
-[Specify your license here]
-
 ## 🔗 Links
 
 - Frontend Repository: https://github.com/Shopifake/shopifake-front
